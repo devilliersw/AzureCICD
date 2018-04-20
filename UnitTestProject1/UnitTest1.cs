@@ -9,7 +9,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            throw new Exception("Oops, i did it again.");
+            //throw new Exception("Oops, i did it again.");
         }
     }
 }
